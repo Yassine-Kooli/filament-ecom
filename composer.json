@@ -18,6 +18,7 @@
         "filament/filament": "^3.2",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9",
+        "livewire/livewire": "^3.5",
         "timokoerber/laravel-one-time-operations": "^1.4"
     },
     "require-dev": {
